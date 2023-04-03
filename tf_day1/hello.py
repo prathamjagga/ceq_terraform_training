@@ -26,3 +26,6 @@ list2 = [1]
 
 print(list1 is list2)
 
+a=2
+b=2
+print(a===b)
